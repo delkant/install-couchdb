@@ -12,4 +12,9 @@ sh install-couchdb.sh
 # then see http://localhost:5984/_utils/
 ```
 
-Tested on Ubuntu 16.04
+Tested on:
+- Ubuntu 16.04
+- RASPBIAN JESSIE 
+  Version:September 2016
+  Release date:2016-09-23
+  Kernel version:4.4
